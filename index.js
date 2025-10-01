@@ -96,7 +96,6 @@ function messanger(message){
 let messages = [message,message,message,message,message];
 return "Open sesame";
 }
-let array = [];
 console.log(messanger("Hi there"))
 
 
