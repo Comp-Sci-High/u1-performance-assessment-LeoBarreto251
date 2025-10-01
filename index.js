@@ -91,8 +91,13 @@ console.log(takeCareOfPet("hotdogs", 20));
 // ----------------------------
 // 5th Floor
 
+function messanger(message){
 
-
+let messages = [message,message,message,message,message];
+return "Open sesame";
+}
+let array = [];
+console.log(messanger("Hi there"))
 
 
 // Commit and show us to unlock the next floor's instructions
