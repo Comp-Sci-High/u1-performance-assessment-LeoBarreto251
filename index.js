@@ -65,7 +65,13 @@ let afterSchoolClubs = {
     ]
 }
 
+scoreValues.C = "Consistency"
+scoreValues.O = "Ownership"
+scoreValues.E = "Excellence"
 
+afterSchoolClubs.athletic[0].club = "British Football Club"
+afterSchoolClubs.social[2].location = "Balcony"
+console.log(afterSchoolClubs);
 // Commit and show us to unlock the next floor's instructions
 // ----------------------------
 // 4th Floor
